@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Russo+One&weight=400&size=58&pause=450&color=00CED1&center=true&vCenter=true&width=1200&height=140&lines=UNTURNED+HACK+2026;ESP+%7C+AIMBOT+%7C+GOD;DOMINATE+THE+MAP" alt="Unturned Hack 2026" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/611194f8-6c8a-4168-9043-1ce0631083d9" />
 
 <br/>
 
